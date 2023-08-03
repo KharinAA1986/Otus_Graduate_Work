@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bm_play">Играть</string>
+    <string name="bm_draw">Рисовать</string>
+    <string name="bm_result">Результаты</string>
+</resources>

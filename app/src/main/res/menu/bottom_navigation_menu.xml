@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_fragment_play"
+        android:title="@string/bm_play"
+        android:icon="@drawable/ic_bm_play"/>
+    <item
+        android:id="@+id/action_fragment_draw"
+        android:title="@string/bm_draw"
+        android:icon="@drawable/ic_bm_draw"/>
+    <item
+        android:id="@+id/action_fragment_statistics"
+        android:title="@string/bm_result"
+        android:icon="@drawable/ic_bm_results"/>
+</menu>

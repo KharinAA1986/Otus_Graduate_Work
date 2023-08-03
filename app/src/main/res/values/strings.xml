@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">PokerRangers</string>
+    <string name="bm_play">Play</string>
+    <string name="bm_draw">Draw</string>
+    <string name="bm_result">Results</string>
+</resources>
